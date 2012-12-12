@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * Description of Crypt_Random
+ *
+ * @author skydiablo
+ */
+interface Crypt_Random {
+/*
+ * hierbei handelt es sich um ein dummy interface
+ * um den symfony 2.1 autoloader aus zu trixen,
+ * da es sich beim aufruf von "Crypt_Random" um eine
+ * function handelt und nicht um eine klasse.
+ */    
+}
+
+?>

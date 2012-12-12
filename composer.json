@@ -1,0 +1,25 @@
+{
+    "name": "SkyDiablo/PHPSecLib-Bundle",
+    "type": "symfony-bundle",
+    "description": "PHPSecLib Bundle for Symfony 2",
+    "keywords": ["PHPSecLib", "bundle"],
+    "homepage": "https://github.com/skydiablo/PHPSecLibBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SkyDiablo",
+            "email": "skydiablo@gmx.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.1,<2.2-dev"
+    },
+    "autoload": {
+        "psr-0": { "SkyDiablo\\PHPSecLibBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "SkyDiablo/PHPSecLibBundle"
+}
