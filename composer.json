@@ -1,5 +1,5 @@
 {
-    "name": "SkyDiablo/PHPSecLib-Bundle",
+    "name": "skydiablo/PHPSecLib-Bundle",
     "type": "symfony-bundle",
     "description": "PHPSecLib Bundle for Symfony 2",
     "keywords": ["PHPSecLib", "bundle"],
@@ -18,8 +18,8 @@
         "symfony/framework-bundle": ">=2.1,<2.2-dev"
     },
     "autoload": {
-        "psr-0": { "SkyDiablo\\PHPSecLibBundle": "" }
+        "psr-0": { "skydiablo\\PHPSecLibBundle": "" }
     },
     "minimum-stability": "dev",
-    "target-dir": "SkyDiablo/PHPSecLibBundle"
+    "target-dir": "skydiablo/PHPSecLibBundle"
 }
