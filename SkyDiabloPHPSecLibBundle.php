@@ -16,6 +16,7 @@ class SkyDiabloPHPSecLibBundle extends Bundle {
                     PHPSecLibAutoloaderSf20::registerAutoload($kernel->getRootDir() . '/../vendor/phpseclib/phpseclib/phpseclib');
                     break;
                 case 1:
+                case 2:
                     PHPSecLibAutoloaderSf21::registerAutoload();
                     break;
             }
