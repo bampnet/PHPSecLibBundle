@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.2.0",
-        "phpseclib/phpseclib": "0.3.*"
+        "phpseclib/phpseclib": ">=0.3.0"
     },
     "require-dev": {
         "symfony/framework-bundle": ">=2.0,<=2.2-dev"
