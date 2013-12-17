@@ -19,6 +19,9 @@ class SkyDiabloPHPSecLibBundle extends Bundle {
                 case 2:
                     PHPSecLibAutoloaderSf21::registerAutoload();
                     break;
+		case 3:
+                    PHPSecLibAutoloaderSf21::registerAutoload();
+                    break;
             }
         }
     }
